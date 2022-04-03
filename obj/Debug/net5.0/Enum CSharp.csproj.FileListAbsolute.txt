@@ -1,0 +1,16 @@
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\bin\Debug\net5.0\Enum CSharp.exe
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\bin\Debug\net5.0\Enum CSharp.deps.json
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\bin\Debug\net5.0\Enum CSharp.runtimeconfig.json
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\bin\Debug\net5.0\Enum CSharp.runtimeconfig.dev.json
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\bin\Debug\net5.0\Enum CSharp.dll
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\bin\Debug\net5.0\ref\Enum CSharp.dll
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\bin\Debug\net5.0\Enum CSharp.pdb
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\obj\Debug\net5.0\Enum CSharp.csproj.AssemblyReference.cache
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\obj\Debug\net5.0\Enum CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\obj\Debug\net5.0\Enum CSharp.AssemblyInfoInputs.cache
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\obj\Debug\net5.0\Enum CSharp.AssemblyInfo.cs
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\obj\Debug\net5.0\Enum CSharp.csproj.CoreCompileInputs.cache
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\obj\Debug\net5.0\Enum CSharp.dll
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\obj\Debug\net5.0\ref\Enum CSharp.dll
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\obj\Debug\net5.0\Enum CSharp.pdb
+D:\BATU\VS Code Console Programming\Practises\Enum CSharp\obj\Debug\net5.0\Enum CSharp.genruntimeconfig.cache
